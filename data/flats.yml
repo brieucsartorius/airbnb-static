@@ -1,0 +1,65 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  fondec: panam.jpg
+  description: Amazing flat with garden in the charming neighborhood of Montmartre.
+romain:
+  owner_name: Romain Paillard
+  picture: card-london.jpeg
+  owner_picture: romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  fondec: londres.jpg
+  description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+
+anne:
+  owner_name: Anne Yolo
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  name: Anne's flat
+  summary: Nice penthouse with a view in Brussels
+  city: Le Touquet, France
+  wifi: false
+  fondec: brusselspano.jpg
+  description: Large penthouse with view on Brussels' main square.
+
+eloi:
+  owner_name: Eloi Verspieren
+  picture: card-touquet.jpeg
+  owner_picture: eloi.jpg
+  name: Eloi's Hunting domain
+  summary: Amazing hunting property near le Touquet
+  city: Le Touquet, France
+  wifi: false
+  fondec: somme.jpg
+  description: Hundreds of acres of hunting property containing lakes, forest, dunes and a warm and greeting hunt-house.
+
+brieuc:
+  owner_name: Brieuc Sartorius
+  picture: card-corse.jpeg
+  owner_picture: brieuc.jpg
+  name: Brieuc's villa
+  summary: Villa in Corsica
+  city: Bonifacio, Corsica
+  wifi: false
+  fondec: bonifacio.jpg
+  description: A gorgeous wooden villa 30meters from the sea, boat available.
+
+mahe:
+  owner_name: Mahe Delapalme
+  picture: card-montjoux.jpeg
+  owner_picture: mahe.jpg
+  name: Mahe Castle
+  summary: Castle in the French coutryside
+  city: Montjoux, France
+  wifi: false
+  fondec: chateau.jpg
+  description: Genuine french castle lost in the cottage, beautiful swimming pool, tennis court and horses.
+
